@@ -1,5 +1,5 @@
 # Hi there, I'm Harshita! 👋
-### - Tech Enthusiast <br> -Problem Solver
+### - Tech Enthusiast <br> - Problem Solver
 
 Welcome to my GitHub profile! I am a passionate developer exploring the world of **C++**, **Competitive Programming (CP)**, and **Frontend Development**.
 
